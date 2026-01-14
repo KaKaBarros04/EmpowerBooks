@@ -44,6 +44,27 @@ In addition, the system has an **administrative area** for complete bookstore ma
 
 ---
 
+## 🔌 REST API
+
+The system has an integrated REST API, responsible for communication between the front-end and the database.
+
+### API Features
+- User authentication
+- Access control (admin / user)
+- CRUD for books
+- CRUD for orders
+- Data persistence with MySQL
+
+---
+
+## 🔐 Controle de Acesso
+
+O sistema possui níveis de acesso:
+- **Administrador**: gerencia livros, categorias, estoque e pedidos
+- **Usuário**: realiza compras, avalia livros e acompanha pedidos
+
+---
+ 
 ## 🛠️ Technologies Used
 
 ### Front-end
